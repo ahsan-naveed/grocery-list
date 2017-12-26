@@ -11,5 +11,6 @@
 7. (optional) to change the quantity just re-enter the item
 
 ---
+
 ### Build with React and ❤️
-### 🖥️    https://grocery-list-ckalvucfqn.now.sh/   🖱
+### ️️️️️❣️️️️️️️❣️❣️❣️ https://grocery-list-ckalvucfqn.now.sh/ ❣️❣️❣️❣️
