@@ -1,5 +1,5 @@
-Grocery List Application 
-========================
+⚡ Grocery List Application ⚡
+=============================
 
 ### Intructions
 1. Fork or download the application
@@ -12,3 +12,4 @@ Grocery List Application
 
 ---
 ### Build with React and ❤️
+### 🖥️ 🖱️ https://grocery-list-ckalvucfqn.now.sh/
