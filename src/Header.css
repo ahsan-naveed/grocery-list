@@ -1,0 +1,8 @@
+div.header {
+    font-family: 'Bungee', cursive;
+    border: 2px solid goldenrod;
+    width: max-content;
+    margin: 30px auto;
+    letter-spacing: 0.3em;
+    padding: 0 20px 0 20px;
+}

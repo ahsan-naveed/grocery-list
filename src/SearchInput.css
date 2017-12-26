@@ -1,0 +1,29 @@
+.search-input-component input {
+    width: 40%;
+    height: 35px;
+    margin-top: 35px;
+    font-size: 25px;
+    padding: 5px 5px 5px 20px;
+    margin-right: 20px;
+    font-family: 'Bungee', cursive;
+}
+
+.search-input-component button {
+    background: goldenrod;
+    font-size: 25px;
+    padding: 9px;
+    border: none;
+    font-family: 'Bungee', cursive;
+}
+
+.search-input-component button:hover {
+    background: rgb(211, 180, 102); 
+}
+
+.search-input-component button:focus {
+    outline: none;
+}
+
+.search-input-component button:active {
+    background: rgb(126, 94, 12);
+}

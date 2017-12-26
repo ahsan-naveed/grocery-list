@@ -1,0 +1,13 @@
+.grocery-item {
+    border-bottom : 1px solid goldenrod;
+    width: 30%;
+    margin: 0 auto;
+    text-align: left;
+    padding: 10px 10px 0 10px;  
+    letter-spacing: 0.1em;
+    font-size: 1.2em;
+}
+
+.grocery-item p span.item-qty {
+    float: right;
+}

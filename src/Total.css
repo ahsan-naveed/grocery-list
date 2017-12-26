@@ -1,0 +1,14 @@
+.main-total {
+    width: 55%;
+    text-align: left; 
+    letter-spacing: 0.2em;   
+}
+
+.total {
+    width: max-content;
+    margin: 50px auto;
+}
+
+.total span {
+    margin: 10px;
+}
