@@ -11,4 +11,4 @@ Grocery List Application
 7. (optional) to change the quantity just re-enter the item
 
 ---
-### Build with React
+### Build with React and ❤️
