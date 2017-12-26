@@ -12,4 +12,4 @@
 
 ---
 ### Build with React and ❤️
-### 🖥️ https://grocery-list-ckalvucfqn.now.sh/ 🖱
+### 🖥️    https://grocery-list-ckalvucfqn.now.sh/   🖱
