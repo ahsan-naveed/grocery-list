@@ -18,7 +18,7 @@ export default class SearchInput extends Component {
         <div>
             <input type="text" 
                    name="groceryItem"
-                   placeholder="Add gorcery..." 
+                   placeholder="Add grocery..." 
                    onKeyDown={this.handleKeyDown}
                    ref={(input) => this.name = input}/>
             <button onClick={this.handleChange}> + Add Item </button>
