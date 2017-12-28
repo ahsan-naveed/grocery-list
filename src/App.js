@@ -38,8 +38,8 @@ class App extends Component {
       <div className="App">
         <Header />
         <SearchInput addItem={this.addItem}/>
-        <GroceryList groceryDataItems={ items }
-                     groceryDataQts={ quantities }/>
+        <GroceryList groceryDataItems={items}
+                     groceryDataQts={quantities}/>
       </div>
     );
   }
